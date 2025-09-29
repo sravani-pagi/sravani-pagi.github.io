@@ -6,14 +6,14 @@ This repository contains my **static website** hosted using **GitHub Pages** as 
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 - Created a static website using **HTML, CSS, and JavaScript**.  
 - Deployed the site using **GitHub Pages**.  
 - Demonstrates knowledge of **Git, GitHub, version control, and static hosting**.  
 
 ---
 
-## 🚀 Steps Followed
+## Steps Followed
 1. Created a GitHub repo named **`sravani-pagi.github.io`**.  
 2. Cloned the repo locally.  
 3. Added website files (**HTML, CSS, JS**).  
@@ -23,7 +23,7 @@ This repository contains my **static website** hosted using **GitHub Pages** as 
 
 ---
 
-## 📚 Key Concepts Learned
+## Key Concepts Learned
 - **Git** basics: clone, commit, push, pull.  
 - **GitHub Pages** for free static hosting.  
 - Difference between **static vs dynamic websites**.  
@@ -31,9 +31,7 @@ This repository contains my **static website** hosted using **GitHub Pages** as 
 
 ---
 
-## 📤 Submission
+## Submission
 - **Repository Link:** [https://github.com/sravani-pagi/sravani-pagi.github.io](https://github.com/sravani-pagi/sravani-pagi.github.io)  
 - **Live Website:** [https://sravani-pagi.github.io](https://sravani-pagi.github.io)  
 
----
-✨ Developed as part of the **Web Development Internship Task 5 - Deploy a Static Website using GitHub Pages**.
